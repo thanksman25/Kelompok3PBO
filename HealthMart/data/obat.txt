@@ -1,0 +1,8 @@
+P001|Paracetamol 500mg|Obat pereda demam dan nyeri|5000|50|Obat Bebas
+P002|Vitamin C 1000mg|Multivitamin untuk imunitas|15000|30|Vitamin
+P004|Masker Medis N95|Masker kesehatan standar|25000|96|Alat Kesehatan
+P003|Thermometer Digital|Alat ukur suhu badan|75000|17|Alat Kesehatan
+P005|Ibuprofen 400mg|Obat antiinflamasi|4500|25|Obat Bebas
+P006|Vitamin D 2000IU|Vitamin D untuk tulang kuat|12000|40|Vitamin
+P007|Plester Luka|Plester untuk luka ringan|3000|100|Alat Kesehatan
+P008|Betadin Antiseptik|Cairan antiseptik untuk luka|8000|35|Obat Luar
